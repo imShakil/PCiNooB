@@ -10,8 +10,6 @@ An assignment
 
 ### Overview
 
-![Overview] (https://raw.githubusercontent.com/imShakil/PCiNooB/master/Screenshot%20from%202020-04-09%2022-14-33.png)
-![Overview] (https://raw.githubusercontent.com/imShakil/PCiNooB/master/Screenshot%20from%202020-04-09%2022-14-51.png)
-![Overview] (https://raw.githubusercontent.com/imShakil/PCiNooB/master/Screenshot%20from%202020-04-09%2022-15-21.png)
+<img src="https://raw.githubusercontent.com/imShakil/PCiNooB/master/Screenshot%20from%202020-04-09%2022-14-33.png" width="200" height="160" /> <img src="https://raw.githubusercontent.com/imShakil/PCiNooB/master/Screenshot%20from%202020-04-09%2022-14-51.png" width="200" height="160" /> <img src="https://raw.githubusercontent.com/imShakil/PCiNooB/master/Screenshot%20from%202020-04-09%2022-15-21.png" width="200" height="160" />
 
 
