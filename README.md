@@ -8,3 +8,10 @@ An assignment
 - Environment: Linux/Ubuntu/Zorin
 - Programming Language used: C/C++
 
+### Overview
+
+[img]https://raw.githubusercontent.com/imShakil/PCiNooB/master/Screenshot%20from%202020-04-09%2022-14-33.png[/img]
+[img]https://raw.githubusercontent.com/imShakil/PCiNooB/master/Screenshot%20from%202020-04-09%2022-14-51.png[/img]
+[img]https://raw.githubusercontent.com/imShakil/PCiNooB/master/Screenshot%20from%202020-04-09%2022-15-21.png[/img]
+
+
