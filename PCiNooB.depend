@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1586447065 source:/home/imshakil/Desktop/GTKApplication/PCiNooB/main.cpp
+	"main.h"
+	"SystemAnalyzer.h"
+	<iostream>
+	<fstream>
+	<string>
+	<FL/Fl_Tabs.H>
+	<FL/Fl_Box.H>
+	<FL/Fl_Text_Display.H>
+
+1586317279 /home/imshakil/Desktop/GTKApplication/PCiNooB/main.h
+	<FL/Fl.H>
+	<FL/Fl_Double_Window.H>
+	<FL/Fl_Input.H>
+	<FL/Fl_Button.H>
+	<FL/Fl_Return_Button.H>
+
+1586445915 /home/imshakil/Desktop/GTKApplication/PCiNooB/SystemAnalyzer.h
+	<iostream>
+	"uptime.h"
+	<stdio.h>
+
+1586412187 /home/imshakil/Desktop/GTKApplication/PCiNooB/uptime.h
+	<chrono>
+	<fstream>
+	<iostream>
+	<sstream>
+	<string>
+	<thread>
+	<vector>
+
