@@ -57,7 +57,7 @@ void LoadInformation(char *File)
 
 void SetWaterMark()
 {
-    Fl_Box *box = new Fl_Box(0, minHeight-30,100,20,"PC i NooB ~ https://github.com/imshakil/");
+    Fl_Box *box = new Fl_Box(0, minHeight-30,330,20,"PC i NooB ~ https://github.com/imshakil/PCiNooB");
     box->labelcolor(FL_DARK_CYAN);
 }
 
