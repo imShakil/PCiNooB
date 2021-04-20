@@ -15,7 +15,7 @@ As I already said it's a terminal based application, so you have to run it from 
 1. First of all, let's download the binary application using the following command line:
 
 ```
-wget https://github.com/imShakil/PCiNooB/raw/master/PCiNooB
+wget https://github.com/imShakil/PCiNooB/releases/download/v1.0/PCiNooB
 ```
 2. Give permission to run this file:
 
